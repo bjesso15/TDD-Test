@@ -4,4 +4,9 @@ class Animal():
         self.age = 2
         self.type = "Lab"
         self.size = "Large"
-        
+    
+    def speak(self):
+        pass
+
+    def descibe(self):
+        pass
