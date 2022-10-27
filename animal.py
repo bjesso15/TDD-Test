@@ -1,9 +1,9 @@
 class Animal():
     def __init__(self):
-        self.name = "Jerry"
-        self.age = 2
-        self.type = "Lab"
-        self.size = "Large"
+        self.name = ""
+        self.age = 0
+        self.type = ""
+        self.size = ""
     
     def speak(self):
         pass
